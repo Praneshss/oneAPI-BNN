@@ -1,7 +1,7 @@
 # oneAPI-BNN
-Exploring Binarized Neural Networks using Intel's oneAPI
+Exploring Binarized Neural Networks using Intel oneAPI
 
-Binarized neural networks (BNN) have gained much popularity due to their low memory footprint and also a promising method for deploying it on edge devices. Due to their advantages, many research works have been proposed for its design in multiple architectures like CPU, GPU, FPGA etc. Various works also proposed to improve the training mechanism of BNN. Intel’s oneAPI project aims to deliver the efficient cross-architecture programming. This work proposes to explore the Binarized Neural Networks using Intel's oneAPI with different training mechanisms that aims towards high accuracy. The works also evaluates its implementation on Arria 10 FPGA, Quadro RTX 5000 and optimized software on Xeon server CPU over MNIST, CIFAR-10 and SVFN datasets.
+Binarized neural networks (BNN) have gained much popularity due to their low memory footprint and also a promising method for deploying it on edge devices. Due to their advantages, many research works have been proposed for its design in multiple architectures like CPU, GPU, FPGA etc. Various works also proposed to improve the training mechanism of BNN. Intel oneAPI project aims to deliver the efficient cross-architecture programming. This work proposes to explore the Binarized Neural Networks using Intel's oneAPI with different training mechanisms that aims towards high accuracy. The works also evaluates its implementation on Arria 10 FPGA, Quadro RTX 5000 and optimized software on Xeon server CPU over MNIST, CIFAR-10 and SVFN datasets.
 
 This project is under development.
 
